@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/notebooks/commit/62cfb71b3416bca826c5670b77e5d704f742afd9",
       "git:hexsha": "62cfb71b3416bca826c5670b77e5d704f742afd9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
